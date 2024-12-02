@@ -12,3 +12,4 @@ C:\Users\alder.french\OneDrive - Leviton\Desktop\repos\advent-of-code-2024\Adven
 C:\Users\alder.french\OneDrive - Leviton\Desktop\repos\advent-of-code-2024\AdventOfCode2024\AdventOfCode2024\obj\Debug\net8.0\AdventOfCode2024.pdb
 C:\Users\alder.french\OneDrive - Leviton\Desktop\repos\advent-of-code-2024\AdventOfCode2024\AdventOfCode2024\obj\Debug\net8.0\AdventOfCode2024.genruntimeconfig.cache
 C:\Users\alder.french\OneDrive - Leviton\Desktop\repos\advent-of-code-2024\AdventOfCode2024\AdventOfCode2024\obj\Debug\net8.0\ref\AdventOfCode2024.dll
+C:\Users\alder.french\OneDrive - Leviton\Desktop\repos\advent-of-code-2024\AdventOfCode2024\AdventOfCode2024\obj\Debug\net8.0\AdventOfCode2024.sourcelink.json

@@ -9,7 +9,8 @@ namespace YourNamespace
         {
             Console.WriteLine("Hello there chap!");
             // Day 1
-            Problem1.SolveProblem();
+            //Problem1.SolveProblem();
+            Problem2.SolveProblem();
         }
     }
 }
